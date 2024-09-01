@@ -1,0 +1,18 @@
+#!/bin/bash
+a=
+b= 
+echo "Ener first number ="
+read a
+
+echo "Ener second number ="
+read b
+
+for((i=a;i<b;i++)){
+	mod=$
+	if [ $($i % 2) -eq 0 ]
+	then
+	echo "$i"
+	fi
+}
+
+

@@ -1,0 +1,5 @@
+Q1)write smallest among 3
+
+Q2)write even number upto limit
+
+Q3)linux comaand
